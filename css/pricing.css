@@ -18,3 +18,7 @@ html {
 .card-deck .card {
   min-width: 220px;
 }
+
+.small-text {
+  font-size: 0.68em;
+}
